@@ -1,0 +1,8 @@
+alpaca-trade-api==3.2.0
+alpaca-py==0.37.0
+colorama==0.4.6
+aiohttp==3.11.11
+numpy==2.2.2
+pandas==2.2.3
+websocket-client==1.8.0
+yarl==1.18.3
